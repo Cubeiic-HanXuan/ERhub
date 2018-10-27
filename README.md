@@ -3,17 +3,17 @@
 <h1 align="center">谷歌浏览器插件 —— ERHub</h1>
 <p align="center">ERhub是一款强大的局部加载 HTML 内容的 GitHub 内容阅读 的 Chrome 扩展 —— ERhub，强化 GitHub 项目阅读体验。</p>
 <p align="center">
-   <a href="https://github.com/jawil/GayHub/blob/master/download/gayhub-1.3.crx?raw=true" download><img src="https://img.shields.io/badge/lastest_version-1.0.3-blue.svg"></a>
-   <a target="_blank" href="https://chrome.google.com/webstore/detail/gayhub/mdcffelghikdiafnfodjlgllenhlnejl">
+   <a href="https://github.com/Cubeiic-HanXuan/ERhub/releases/tag/v.2.0.0" download><img src="https://img.shields.io/badge/lastest_version-2.0.0-blue.svg"></a>
+   <a target="_blank" href="#">
    <img src="https://img.shields.io/badge/download-_chrome_webstore-brightgreen.svg" download></a>
-   <a href="https://github.com/jawil/GayHub/blob/master/download/gayhub-1.3.crx?raw=true"><img src="https://img.shields.io/badge/download-_crx-brightgreen.svg" download></a>
+   <a href="#"><img src="https://img.shields.io/badge/download-_crx-brightgreen.svg" download></a>
 </p>
 
 ***
 
 ### 马上使用：
 
-* [Chrome 应用商店](https://chrome.google.com/webstore/detail/gayhub/mdcffelghikdiafnfodjlgllenhlnejl) 或者 [离线下载](https://github.com/jawil/GayHub/blob/master/download/gayhub-1.3.crx?raw=true) 或者 [下载测试版](https://github.com/jawil/GayHub/blob/master/download/test.crx?raw=true)
+*  [离线下载 `chrome.zip`](https://github.com/Cubeiic-HanXuan/ERhub/files/2521795/chrome.zip) 
 
 ### 主要功能一览：
 
